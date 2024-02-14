@@ -35,7 +35,7 @@ Para executar a calculadora localmente:
 
 ## Demonstração
 
-Você pode testar a calculadora ao vivo [aqui](#) (insira o link para a demonstração ao vivo, se disponível).
+Você pode testar a calculadora ao vivo [aqui](#https://felipepalage.github.io/calculadoraimc/) ((https://felipepalage.github.io/calculadoraimc/)).
 
 ## Contribuições
 
