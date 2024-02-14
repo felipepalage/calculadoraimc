@@ -48,7 +48,7 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 ## Reconhecimentos
 
 - Inspiração: Necessidade comum de monitoramento do peso e da saúde.
-- Agradecimentos especiais a [Nome], [Nome] e [Nome] por suas contribuições valiosas.
+- Agradecimentos especiais a Larissa Kich por suas contribuições valiosas.
 
 Desfrute da calculadora de IMC! Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
 
