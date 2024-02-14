@@ -9,7 +9,7 @@ Este projeto é uma calculadora simples de Índice de Massa Corporal (IMC) desen
    - Insira a sua altura em metros.
 
 2. **Calcular o IMC:**
-   - Clique no botão "Calcular IMC".
+   - Clique no botão "Calcular".
    - O resultado será exibido abaixo, indicando o seu IMC.
 
 3. **Interpretação do IMC:**
